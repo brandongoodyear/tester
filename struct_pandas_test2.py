@@ -45,4 +45,4 @@ endtime=time.time()
 
 print('starttime='+str(starttime)+'\n'+'endtime='+str(endtime)+'\n'+"totaltime="+
       str(endtime-starttime))
-print("newer")
+print("new clone")
